@@ -7,7 +7,7 @@ function IndexPage() {
     <div>
       <Head>
         <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
-        <meta property="og:url" content="https://www.meusite.com.br/ola-mundo"/>
+        <meta property="og:url" content="https://wallpapercave.com/wp/wp5029421.jpg"/>
       </Head>
     </div>
   )
